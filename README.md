@@ -13,6 +13,6 @@ https://resources.marine.copernicus.eu/?option=com_csw&view=order&record_id=eec7
 
 Then you can use the following Jupyter notebooks to manipulate the files (or download the ocean_data.nc):
 
-."interpolation.ipynb" explaines how to do an Vertical profile interpolation for selected levels with using numpy.interp function.
+."interpolation.ipynb" explaines how to do a Vertical profile interpolation for selected levels with using numpy.interp function.
 
 ."temperature_by_depth.ipynb" shows a graph to see the Vertical Profondity in the ocean_data.nc file through xarray function.
