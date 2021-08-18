@@ -2,7 +2,7 @@
 
 [AdriaClim Project](https://www.italy-croatia.eu/web/adriaclim): Climate change information, monitoring, and management tools for adaptation strategies in Adriatic coastal areas.
 
-Therefore, in 007-Ozalp/Ocean-Data-Processing you will find some examples of how the climate model data is post-processed in the Adriatic Sea in the field of Climate, Ocean, and Coastal Areas.
+Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-post-processing) you will find some examples of how the climate model data is post-processed in the Adriatic Sea in the field of Climate, Ocean, and Coastal Areas.
 
 CMEMS-Data examples:
 
