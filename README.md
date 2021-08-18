@@ -1,12 +1,10 @@
 # Ocean-Data-Post-Processing-xarray
 
-[AdriaClim Project](https://www.italy-croatia.eu/web/adriaclim):
+[AdriaClim Project](https://www.italy-croatia.eu/web/adriaclim): Climate change information, monitoring, and management tools for adaptation strategies in Adriatic coastal areas.
 
-Climate change information, monitoring, and management tools for adaptation strategies in Adriatic coastal areas.
+Therefore, in 007-Ozalp/Ocean-Data-Processing you will find some examples of how the climate model data is post-processed in the Adriatic Sea in the field of Climate, Ocean, and Coastal Areas.
 
-Data Management: Geoportal development, climate model data transformation, and visualization in the Adriatic Sea in the field of Climate, Ocean, and Coastal Areas. Therefore, in 007-Ozalp/Ocean-Data-Processing you will find some examples of how the information is post-processed for data manipulations and visualizations.
-
-CMEMS-Data manipulation examples:
+CMEMS-Data examples:
 
 You can download an Ocean Product from [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&view=order&record_id=eec7a997-c57e-4dfa-9194-4c72154f5cc5):
 Then you can use the following Jupyter notebooks to manipulate the files (or download the ocean_data.nc):
