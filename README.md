@@ -1,4 +1,4 @@
-# Ocean-Data-Post-Processing-xarray
+# Ocean-Data-Post-Processing
 
 [AdriaClim Project](https://www.italy-croatia.eu/web/adriaclim): Climate change information, monitoring, and management tools for adaptation strategies in Adriatic coastal areas.
 
