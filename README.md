@@ -6,7 +6,7 @@ Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-po
 
 CMEMS-Data examples:
 
-You can download an Ocean Product from [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&view=order&record_id=eec7a997-c57e-4dfa-9194-4c72154f5cc5):
+You can download an Ocean Product from [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results):
 Then you can use the following Jupyter notebooks to manipulate the files (or download the ocean_data.nc):
 
 .["interpolation.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/interpolation.ipynb) explaines how to do a Vertical profile interpolation for selected levels with using [numpy.interp](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) function.
