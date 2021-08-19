@@ -12,3 +12,5 @@ Then you can use the following Jupyter notebooks to manipulate the files (or dow
 .["interpolation.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/interpolation.ipynb) explaines how to do a Vertical profile interpolation for selected levels with using [numpy.interp](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) function.
 
 .["temperature_by_depth.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/temperature_by_depth.ipynb) shows a graph to see the Vertical Profondity in the ocean_data.nc file through [xarray](http://xarray.pydata.org/en/stable/generated/xarray.DataArray.html) function.
+
+.GeoCAT visualization example through CMEMS Ocean Product.
