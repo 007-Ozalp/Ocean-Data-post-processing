@@ -15,7 +15,7 @@ Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-po
 
 . ["read_file_temperature.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/read_file_temperature.ipynb) describes the statistics of the [2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc) file.
 
-  # In the following scripts there are examples of  ocean data visualization by using [GeoCAT](https://geocat.ucar.edu/pages/software.html) module and [Cartography]    (https://pypi.org/project/cartography/) library.
+  In the following scripts there are examples of  ocean data visualization by using [GeoCAT](https://geocat.ucar.edu/pages/software.html) module and [Cartography](https://pypi.org/project/cartography/) library.
 
   Reading file is : ["2020-11 16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/2020-11-    16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc) post-processed [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results) Ocean file. 
 
