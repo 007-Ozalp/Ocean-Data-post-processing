@@ -17,7 +17,7 @@ Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-po
 
   In the following scripts there are examples of  ocean data visualization by using [GeoCAT](https://geocat.ucar.edu/pages/software.html) module and [Cartography](https://pypi.org/project/cartography/) library.
 
-  Reading file is : ["2020-11 16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/2020-11-    16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc) post-processed [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results) Ocean file. 
+  Reading file is : [2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc) post-processed [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results) Ocean file. 
 
 . ["Mediterranean_Sea_Physics_Analysis_and_Forecast_Ocean_Product_Temperature_at5m.png"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/Mediterranean_Sea_Physics_Analysis_and_Forecast_Ocean_Product_Temperature_at5m.png) is the result of the [GeoCAT](https://geocat.ucar.edu/) visualization example through ["cmems_Geocat_visualization_temperature.py"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/cmems_Geocat_visualization_temperature.py) 
 
