@@ -13,7 +13,7 @@ Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-po
   
 . ["interpolation.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/interpolation.ipynb) explaines how to do a Vertical profile interpolation for selected levels with using [numpy.interp](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) function.
 
-. ["temperature_by_depth.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/temperature_by_depth.ipynb) shows a graph to see the Vertical Profondity in the ocean_data.nc file through [xarray](http://xarray.pydata.org/en/stable/generated/xarray.DataArray.html) function.
+. ["temperature_by_depth.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/temperature_by_depth.ipynb) shows a graph to see the Vertical Profondity in the [ocean_data.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/ocean_data.nc) file through [xarray](http://xarray.pydata.org/en/stable/generated/xarray.DataArray.html) function.
 
 . ["read_file_temperature.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/read_file_temperature.ipynb) describes the statistics of the [2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/2020-11-16T12_00_00_Daily_temp_2020_AdriaticSea_Z10_CF.nc) file.
 
