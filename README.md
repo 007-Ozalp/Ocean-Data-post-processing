@@ -9,7 +9,7 @@ Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-po
   You can download an Ocean Product from [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results):
   Then you can use the following Jupyter notebooks to manipulate the files (or download the [ocean_data.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/ocean_data.nc)):
 
-. [Temperature_time_series.ipynb](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/Temperature_time_series.ipynb) shows an [CMEMS Ocean product](https://resources.marine.copernicus.eu/?option=com_csw&task=results) that you want to study in time series monthly mean temperature.
+. [Temperature_time_series.ipynb](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/Temperature_time_series.ipynb) shows an [CMEMS Ocean file](https://resources.marine.copernicus.eu/?option=com_csw&task=results) in time series.
   
 . ["interpolation.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/interpolation.ipynb) explaines how to do a Vertical profile interpolation for selected levels with using [numpy.interp](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) function.
 
