@@ -4,7 +4,7 @@
 
 Therefore, in [Ocean-Data-Processing](https://github.com/007-Ozalp/Ocean-Data-post-processing) you will find some examples of how the climate model data is post-processed in the Adriatic Sea in the field of Climate, Ocean, and Coastal Areas.
 
-  # Data post-procesing:
+  # Data post-processing:
 
   You can download an Ocean Product from [CMEMS](https://resources.marine.copernicus.eu/?option=com_csw&task=results):
   Then you can use the following Jupyter notebooks to manipulate the files (or download the ocean_data.nc):
