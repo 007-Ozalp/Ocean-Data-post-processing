@@ -10,8 +10,6 @@
 
 . [Temperature_time_series.ipynb](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/Temperature_time_series.ipynb) shows an [CMEMS Ocean file](https://resources.marine.copernicus.eu/?option=com_csw&task=results) in time series in a fix point.
 
-. [TS_cmems_reanalysis_temperature_from1987to2019_AdriaticSea.ipynb](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/TS_cmems_reanalysis_temperature_from1987to2019_AdriaticSea.ipynb) displays Sea Surface Temperature in time series from 1987 to 2019 over Adriatic Sea.
-  
 . ["interpolation.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/interpolation.ipynb) explaines how to do a Vertical profile interpolation for selected levels with using [numpy.interp](https://numpy.org/doc/stable/reference/generated/numpy.interp.html) function.
 
 . ["temperature_by_depth.ipynb"](https://github.com/007-Ozalp/Ocean-Data-post-processing-xarray-graphs/blob/main/temperature_by_depth.ipynb) shows a graph to see the Vertical Profondity in the [ocean_data.nc](https://github.com/007-Ozalp/Ocean-Data-post-processing/blob/main/ocean_data.nc) file through [xarray](http://xarray.pydata.org/en/stable/generated/xarray.DataArray.html) function.
